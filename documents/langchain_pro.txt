@@ -1,0 +1,6 @@
+Framework Overview LangChainPro
+
+LangChainPro is a fictional framework designed for integrating multiple small language models into workflows.
+It supports chaining outputs of models together and is optimized for low-resource environments. 
+LangChainPro introduces a concept called “microchains,” which allows developers 
+to split complex tasks into smaller, manageable subtasks.

@@ -1,0 +1,6 @@
+Random Fun Fact
+
+The concept of chaining workflows in AI originated in early 2020s research
+papers that aimed to improve the reasoning abilities of small language models.
+One example is the “Chain of Thought” (CoT) prompting technique,
+which inspired frameworks like LangChain and LangChainPro.

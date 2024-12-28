@@ -1,0 +1,7 @@
+Local AI Models
+
+GPTLocal is an experimental lightweight language model designed to work on edge devices 
+like Raspberry Pi. Unlike larger models, GPTLocal is trained on highly specific datasets to perform 
+tasks like home automation, personal note summarization, and offline Q&A systems.
+GPTLocal was introduced in 2024 by an open-source community to address privacy concerns and 
+reduce dependency on cloud-based AI solutions.
